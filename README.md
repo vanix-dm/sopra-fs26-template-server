@@ -115,4 +115,6 @@ First, pull (download) the image with the following command, replacing your user
 
 Then, run the image in a container with the following command, again replacing _<dockerhub_username>_ and _<dockerhub_repo_name>_ accordingly.
 
+Hi
+
 ```docker run -p 3000:3000 <dockerhub_username>/<dockerhub_repo_name>```
